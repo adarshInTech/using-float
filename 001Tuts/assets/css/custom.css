@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=DM+Serif+Display&display=swap');
+
+body{
+    font-family: 'DM Sans', sans-serif;
+
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+h3{
+    font-size: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'DM Serif Display', serif;
+    margin-bottom: 10px;
+}
+
+p{
+    font-size: 16px;
+    line-height: 20px;
+}
+
+
+
+header{
+    background-color: aqua;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 100%;
+}
+
+footer{
+    background-color: burlywood;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.text-center{
+    text-align: center;
+}
+
+.color1{
+    background-color: bisque;
+}
+
+.color2{
+    background-color: chocolate;
+}
+
+.color3{
+    background-color: yellowgreen;
+}
